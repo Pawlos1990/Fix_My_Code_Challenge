@@ -8,7 +8,7 @@ import uuid
 
 class User():
     """
-    User class:
+    user-class:
     - id: public string unique (uuid)
     - password: private string hash in MD5
     """
